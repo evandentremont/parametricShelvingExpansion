@@ -1,6 +1,6 @@
 height              = 25.4 * 6;
 couplerheight       = 25.4 * 1.47;
-couplerod           = 25.4 * 1.43;
+couplerod           = 25.4 * 1.48;
 
 frictionstripdepth  = 25.4 * 0.04;
 frictionstripwidth  = 25.4 * 0.1;
@@ -10,7 +10,7 @@ od                  = 25.4 * 1.62;
 //od                = 25.4 * 2;
 id                  = 25.4 * 1.51;
 
-fn = 40;
+fn = 200;
 
 color([0.5,0.5,0.5])
 difference() {
